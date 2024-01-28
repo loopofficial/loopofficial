@@ -8,7 +8,7 @@ I'm Loop, the esteemed Director of Cyber Security at Skyline Hosting. With exten
 - Threat Intelligence
 - Network Security
 - Cloud Security
-- Programming: Python, Lua, Javascript (Learning)
+- Programming: Python, Lua, Javascript
 
 ## 💼 Skyline Hosting
 At Skyline Hosting, I lead a team of top-tier security experts dedicated to protecting our clients' data and systems. Our focus is on creating resilient, secure hosting environments, adaptable to the ever-evolving cyber threats.
@@ -21,7 +21,7 @@ Antidote Server Solutions: An AI-powered FiveM anti-cheat, currently in the work
 
 
 ## 📢 Speaking Engagements & Publications
-Soon
+TBA
 
 ---
 
