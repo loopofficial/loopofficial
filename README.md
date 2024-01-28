@@ -15,13 +15,10 @@ At Skyline Hosting, I lead a team of top-tier security experts dedicated to prot
 
 ## 📚 Projects & Contributions
 Antidote Server Solutions: An AI-powered FiveM anti-cheat, currently in the works, the main model Lua developer.
+SkySec: A multi-purpose cyber security tool with open source intelligence, defensive security, and offensive security capabilities.
 
 ## 🤝 Connect with Me
-- Discord: 
-
-
-## 📢 Speaking Engagements & Publications
-TBA
+- Discord: Loop8913
 
 ---
 
