@@ -14,6 +14,8 @@ I'm Loop, the esteemed Director of Cyber Security at Skyline Hosting. With exten
   ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 ## 💼 Skyline Hosting
 At Skyline Hosting, I lead a team of top-tier security experts dedicated to protecting our clients' data and systems. Our focus is on creating resilient, secure hosting environments, adaptable to the ever-evolving cyber threats.
