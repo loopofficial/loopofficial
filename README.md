@@ -1,7 +1,7 @@
 # Welcome to Loop's GitHub 👋
 
 ## 🚀 About Me
-I'm Loop, the esteemed Director of Cyber Security at Skyline Hosting. With extensive experience in safeguarding digital landscapes, I specialize in innovative cybersecurity solutions. My mission is to fortify the web, one line of code at a time.
+I'm Loop, with extensive experience in safeguarding digital landscapes. I specialize in innovative cybersecurity solutions, with a mission to fortify the web, one line of code at a time.
 
 ## 🛠 Skills
 - Cybersecurity Analysis & Strategy
@@ -17,9 +17,6 @@ I'm Loop, the esteemed Director of Cyber Security at Skyline Hosting. With exten
   ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
-## 💼 Skyline Hosting
-At Skyline Hosting, I lead a team of top-tier security experts dedicated to protecting our clients' data and systems. Our focus is on creating resilient, secure hosting environments, adaptable to the ever-evolving cyber threats.
-
 ## 📚 Projects & Contributions
 - Antidote Server Solutions: An AI-powered FiveM anti-cheat, currently in the works, the main model Lua developer.
 
@@ -30,4 +27,4 @@ At Skyline Hosting, I lead a team of top-tier security experts dedicated to prot
 
 ---
 
-⭐️ From Loop, the Director of Cyber Security at Skyline Hosting
+⭐️ From Loop
