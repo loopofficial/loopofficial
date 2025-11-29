@@ -23,7 +23,7 @@ I'm Loop, with extensive experience in safeguarding digital landscapes. I specia
 ### 🕷️ Recluse: Surveillance Detection & System Behavior Intelligence
 Recluse is a closed-source Windows endpoint security platform engineered to surface advanced surveillance, covert intrusion, and stealthy monitoring behavior. It utilizes deep behavioral intelligence and forensic-grade correlation to provide clear visibility and context, moving beyond traditional signature-based detection.
 
-**[View Recluse Repository](https://github.com/loopofficial/reclusesecurity)** (You'll need to update this link!)
+**[View Recluse Repository](https://github.com/loopofficial/reclusestealthv1)**
 
 ---
 
